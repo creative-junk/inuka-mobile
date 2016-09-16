@@ -1,7 +1,7 @@
 {
     "authenticating": "Authenticating",
     "cancel": "Cancel",
-    "credentials": "Credentials",
+    "credentials": "Inuka Login",
     "credentialsdescription": "Please provide your username and password to login to Inuka Mobile",
     "confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "connect": "Connect!",
